@@ -1,0 +1,210 @@
+[
+    {
+        "name": "7 Signs",
+        "icon": "bonus/icons/7-signs-icon.png",
+        "ref": "https://bit.ly/MetalSlots7",
+        "description": "Willkommenpaket bis 1000€! Sucht euch den passenden bonus aus!",
+        "color": "#F65604",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "BoaBoa",
+        "icon": "bonus/icons/boaboa-icon.png",
+        "ref": "https://bit.ly/MetalSlotsBoa",
+        "description": "100% bis zu 500€",
+        "color": "#FFFFFF",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Cashalot",
+        "icon": "bonus/icons/cashalot-icon.png",
+        "ref": "https://bit.ly/MetalSlotsCashalot",
+        "description": "200% bis 200€",
+        "color": "#1A202E",
+        "tags": [],
+        "extraInfo": [
+            {
+                "description": "Code",
+                "value": "Vikings"
+            }
+        ]
+    },
+    {
+        "name": "GG.BET",
+        "icon": "bonus/icons/ggbet-icon.png",
+        "ref": "https://bit.ly/MetalSlotsGGBET",
+        "description": "200% bis 200€ + 50FS + 150% Reload",
+        "color": "#14171D",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": [
+            {
+                "description": "Wager",
+                "value": "40x"
+            },
+            {
+                "description": "Max Bet",
+                "value": "5€"
+            },
+            {
+                "description": "Max Bet",
+                "value": "5€"
+            }
+        ]
+    },
+    {
+        "name": "5 Gringos",
+        "icon": "bonus/icons/5-gringos-icon.png",
+        "ref": "https://bit.ly/MetalSlots5",
+        "description": "100% bis 500€ oder 200% bis 50€",
+        "color": "#3B1D1F",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Leon",
+        "icon": "bonus/icons/leon-icon.png",
+        "ref": "https://bit.ly/MetalSlotsLeon",
+        "description": "100% bis 300€<br>100% bis 200€ Reload<br>100FS",
+        "color": "#23152F",
+        "tags": [],
+        "extraInfo": []
+    },
+    {
+        "name": "Malina Casino",
+        "icon": "bonus/icons/malina-casino-icon.png",
+        "ref": "https://bit.ly/MetalSlotsMalinaBonus",
+        "description": "100% bis 500€",
+        "color": "#250927",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "MyStake",
+        "icon": "bonus/icons/mystake-icon.png",
+        "ref": "https://bit.ly/MetalSlotsMyStak",
+        "description": "150% oder 170% mit Crypto bis 1000€",
+        "color": "#1B1B22",
+        "tags": [
+            "non-sticky",
+            "crypto"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Nomini",
+        "icon": "bonus/icons/nomini-icon.svg",
+        "ref": "https://bit.ly/MetalSlotsNomi",
+        "description": "Willkommenpaket bis 1000€! Sucht euch den passenden bonus aus!",
+        "color": "#52D2EB",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Sportaza",
+        "icon": "bonus/icons/sportaza-icon.png",
+        "ref": "https://bit.ly/MetalSlotsSportaz",
+        "description": "100% bis 500€",
+        "color": "#04207B",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Vulkan Vegas",
+        "icon": "bonus/icons/vulkan-vegas-icon.png",
+        "ref": "https://bit.ly/MetalSlotsVulkanV",
+        "description": "200% bis 2000€",
+        "color": "#33124B",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Wazamba",
+        "icon": "bonus/icons/wazamba-icon.png",
+        "ref": "https://bit.ly/MetalSlotsWaza",
+        "description": "100% bis 500€",
+        "color": "#4DA701",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "AmunRa",
+        "icon": "bonus/icons/amunra-icon.png",
+        "ref": "https://bit.ly/MetalSlotsAmun",
+        "description": "100% bis 1000€",
+        "color": "#3A1F01",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Cadoola",
+        "icon": "bonus/icons/cadoola-icon.svg",
+        "ref": "https://bit.ly/MetalSlotsCadoolaBonus",
+        "description": "Willkommenspaket 450% bis 800€",
+        "color": "#567FDD",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "LevelUp",
+        "icon": "bonus/icons/level-up-icon.png",
+        "ref": "https://bit.ly/MetalSlotsLevel",
+        "description": "Willkommenspaket bis 400€",
+        "color": "#rgb(15,15,15)",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    },
+    {
+        "name": "Rocketpot",
+        "icon": "bonus/icons/rocket-pot-icon.png",
+        "ref": "https://bit.ly/MetalSlotsPot",
+        "description": "150% bis 1000€",
+        "color": "#2D2834",
+        "tags": [
+            "non-sticky",
+            "crypto"
+        ],
+        "extraInfo": [
+            {
+                "description": "Code",
+                "value": "Viking"
+            }
+        ]
+    },
+    {
+        "name": "Dublinbet",
+        "icon": "bonus/icons/dublin-bet-icon.png",
+        "ref": "https://bit.ly/MetalSlotsDublin150",
+        "description": "150% bis 225",
+        "color": "#112818",
+        "tags": [
+            "non-sticky"
+        ],
+        "extraInfo": []
+    }
+]
